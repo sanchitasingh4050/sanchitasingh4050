@@ -29,16 +29,15 @@ Hi, I'm Sanchita🙌, a Web Developer & AI and ML Enthusiast. Apart from that I 
 - 🌱 I’m currently learning ReactJS.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
 - 📝[LinkedIn](https://www.linkedin.com/in/sanchitasingh4050/)
 
 
 
 *Community*
 - NSS GLBAJAJ
-- Hashcode
-- Coding Ninja
-- OCD
+- GDSC
+- DSAL Coding club 
+
 
 *Languages and Tools:*
 
