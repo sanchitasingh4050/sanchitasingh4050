@@ -18,16 +18,14 @@
 <br />
 
 
-Hi, I'm Sanchita🙌, a Web Developer & AI and ML Enthusiast. Apart from that I like getting involved in Competitive Programming and Problem Solving!
+Hi, I'm Sanchita🙌, a Web Developer & AI and ML Enthusiast. Apart from that I like Competitive Programming and Problem Solving!
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
-*Talking about Personal Stuffs:*
-
-- 🌱 I’m currently learning ReactJS.
-- 👯 Part of Developer Community.
+- 🌱 I’m currently learning MERN Stack.
+- 👯 GSSOC-2024
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📝[LinkedIn](https://www.linkedin.com/in/sanchitasingh4050/)
 
@@ -35,7 +33,6 @@ Hi, I'm Sanchita🙌, a Web Developer & AI and ML Enthusiast. Apart from that I 
 
 *Community*
 - NSS GLBAJAJ
-- GDSC
 - DSAL Coding club 
 
 
