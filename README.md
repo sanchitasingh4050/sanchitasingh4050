@@ -26,7 +26,6 @@ Hi, I'm Sanchita🙌, a Web Developer & AI and ML Enthusiast. Apart from this I 
 
 - 🌱 I’m currently learning MERN Stack.
 - 👯 GSSOC-2024
-- 💬 Ask me about anything , Would love to answer them.✌
 - 📝[LinkedIn](https://www.linkedin.com/in/sanchitasingh4050/)
 
 
